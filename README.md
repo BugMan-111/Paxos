@@ -1,6 +1,4 @@
 # Paxos
-<br />
-<br />
 This project implements Leslie Lamport's Paxos Algorithm. 
 <br />
 It uses a 3-phase version of the algorithm, which differs slightly from the original described in "Paxos Made Simple" by Leslie Lamport. 
